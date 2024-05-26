@@ -2,7 +2,7 @@
 # LSTM Prediction Project
 
 ## Overview
-This project uses a Long Short-Term Memory (LSTM) neural network to predict [specific prediction, e.g., stock prices, weather conditions]. LSTM networks are a type of recurrent neural network (RNN) that are capable of learning order dependence in sequence prediction problems.
+This project uses a Long Short-Term Memory (LSTM) neural network to predict [specific prediction, e.g., stock prices, weather conditions]. LSTM networks are a type of recurrent neural network (RNN) capable of learning order dependence in sequence prediction problems.
 
 ## Getting Started
 
@@ -18,8 +18,8 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict [spe
 Clone this repository to your local machine, and ensure you have all the prerequisites installed.
 
 ```bash
-git clone [repository-url]
-cd [repository-directory]
+git clone https://github.com/Serendeep/Multivariate-Univariate-LSTM.git
+cd Multivariate-Univariate-LSTM
 pip install -r requirements.txt
 ```
 
