@@ -2,7 +2,7 @@
 # LSTM Prediction Project
 
 ## Overview
-This project uses a Long Short-Term Memory (LSTM) neural network to predict [specific prediction, e.g., stock prices, weather conditions]. LSTM networks are a type of recurrent neural network (RNN) capable of learning order dependence in sequence prediction problems.
+This project uses a Long Short-Term Memory (LSTM) neural network to predict Stock Prices. LSTM networks are a type of recurrent neural network (RNN) capable of learning order dependence in sequence prediction problems.
 
 ## Getting Started
 
